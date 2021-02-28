@@ -48,7 +48,7 @@ Lembrando que você precisa ter uma conta [Figma](http://figma.com/) para acess�
 
 ## 📝 License
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE.md) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT.
 
 
 ---
