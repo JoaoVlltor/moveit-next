@@ -31,7 +31,7 @@ $ yarn dev
 
 ## 💻 Projeto
 
-[Move.it](https://move-it-guilhermecapitao.vercel.app/) vim te lembrar de fazer exercícios sempre! 💪  
+[Move.it](https://moveit-next-q0ie0zmu6-joaovlltor.vercel.app/) vim te lembrar de fazer exercícios sempre! 💪  
 
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** durante 22 a 28 de Fevereiro de 2021.
