@@ -8,7 +8,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🔥 Preview
 
-![Captura de tela 2021-02-28 163916](https://user-images.githubusercontent.com/72579020/109431259-57f35000-79e4-11eb-99f2-9471a203e156.png)
+![Captura de tela 2021-02-28 164727](https://user-images.githubusercontent.com/72579020/109431314-b0c2e880-79e4-11eb-9105-b2cd3d902ce6.png)
 
 ## 🚀 Começando
 
